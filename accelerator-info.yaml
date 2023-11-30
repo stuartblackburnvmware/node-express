@@ -1,0 +1,13 @@
+id: b36ce736-6d27-448c-8414-ae5ece8269ae
+timestamp: 2023-11-30T20:51:02.979Z
+source: TAP-GUI
+username: stuartblackburnvmware
+accelerator:
+  name: node-express
+fragments:
+  - name: tap-workload
+options:
+  bsGitBranch: main
+  projectName: node-express
+  includeTap: true
+  bsGitRepository: github.com?owner=stuartblackburnvmware&repo=node-express
